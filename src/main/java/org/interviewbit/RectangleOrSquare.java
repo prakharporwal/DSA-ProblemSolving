@@ -23,12 +23,12 @@ public class RectangleOrSquare {
                     if(R.containsKey(i) && R.get(i) && C.get(j)){
 
                     }
-                    R.put(i,j);
-                    C.put(j,i);
+//                    R.put(i,j);
+//                    C.put(j,i);
                 }
             }
         }
 
-        return ;
+        return 0;
     }
 }
